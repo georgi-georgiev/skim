@@ -7,6 +7,9 @@
 - Decorators
 - Pluggable code
 - Use context for the store
+- Tracking for production mode
+- Only for part of the users
+- Smoke testing mode
 - Postgre
 - Mongo
 - Kafka
