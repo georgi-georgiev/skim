@@ -1,6 +1,8 @@
 # Tool for testing distributed systems
 - Enrich storages with context information
 - Internal / External storage
+- Auto cleanup if test is successful
+- Auto cleanup when new test was executed
 - Find fast related entities and indentifiers
 - Based on the initial hash
 - Save affection action (Insert, Update, Select, Delete)
