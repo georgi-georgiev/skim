@@ -1,8 +1,9 @@
 # Tool for testing distributed systems
 - Enrich storages with context information
+- Internal / External storage
 - Find fast related entities and indentifiers
 - Based on the initial hash
-- Save affection action (Inser, Update, Select, Delete)
+- Save affection action (Insert, Update, Select, Delete)
 - Only on test environment
 - Observable pattern
 - Decorators
