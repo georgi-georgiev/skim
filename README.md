@@ -1,1 +1,12 @@
-# pulse
+# Tool for testing distributed systems
+- Enrich storages with context information
+- Find fast related entities and indentifiers
+- Based on the initial hash
+- Only on test environment
+- Observable pattern
+- Decorators
+- Pluggable code
+- Use context for the store
+- Postgre
+- Mongo
+- Kafka
