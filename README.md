@@ -2,6 +2,7 @@
 - Enrich storages with context information
 - Find fast related entities and indentifiers
 - Based on the initial hash
+- Save affection action (Inser, Update, Select, Delete)
 - Only on test environment
 - Observable pattern
 - Decorators
