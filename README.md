@@ -1,6 +1,6 @@
 # Tool for testing distributed systems
 - Enrich storages with context information
-- Internal / External storage
+- Cassandra storage
 - Auto cleanup if test is successful
 - Auto cleanup when new test was executed
 - Check inmemory
