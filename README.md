@@ -1,4 +1,4 @@
-# Tool for testing distributed systems
+# Tool for end to end testing of data in application distributed in several microservices
 - Enrich storages with context information
 - Cassandra storage
 - Auto cleanup if test is successful
